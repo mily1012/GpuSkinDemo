@@ -1,0 +1,16 @@
+{
+  "name": "com.funplus.gpuskinning",
+  "version": "0.1.0",
+  "displayName": "GPU Skinning",
+  "description": "\u6027\u80fd\u68c0\u67e5\u5de5\u5177",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "dependencies": {
+  },
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  }
+}

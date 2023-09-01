@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32123c580c8d64dfe895af12e56275d7, type: 3}
+  m_Name: GPUSKinning_Anim_Ship_kinetic_01_Low
+  m_EditorClassIdentifier: 
+  guid: f4063aa3-03fb-49c7-9009-9efdfdffb630
+  boneLenght: 13
+  clips:
+  - name: AttackEnd
+    length: 2.0666668
+    fps: 30
+    speed: 1
+    wrapMode: 0
+    frames: []
+    pixelSegmentation: 0
+    events: []
+  - name: AttackLoop
+    length: 1
+    fps: 30
+    speed: 1
+    wrapMode: 0
+    frames: []
+    pixelSegmentation: 2418
+    events: []
+  - name: AttackStart
+    length: 1.0666667
+    fps: 30
+    speed: 1
+    wrapMode: 0
+    frames: []
+    pixelSegmentation: 3588
+    events: []
+  - name: Run
+    length: 5.0000005
+    fps: 30
+    speed: 1
+    wrapMode: 1
+    frames: []
+    pixelSegmentation: 4836
+    events: []
+  - name: Spell1_1
+    length: 2.5000002
+    fps: 30
+    speed: 1
+    wrapMode: 0
+    frames: []
+    pixelSegmentation: 10686
+    events: []
+  - name: Idle
+    length: 5.0000005
+    fps: 30
+    speed: 1
+    wrapMode: 1
+    frames: []
+    pixelSegmentation: 13611
+    events: []
+  - name: Turn_Left
+    length: 5.0000005
+    fps: 30
+    speed: 1
+    wrapMode: 1
+    frames: []
+    pixelSegmentation: 19461
+    events: []
+  - name: Turn_Right
+    length: 5.0000005
+    fps: 30
+    speed: 1
+    wrapMode: 1
+    frames: []
+    pixelSegmentation: 25311
+    events: []
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  textureWidth: 256
+  textureHeight: 122
+  sphereRadius: 1

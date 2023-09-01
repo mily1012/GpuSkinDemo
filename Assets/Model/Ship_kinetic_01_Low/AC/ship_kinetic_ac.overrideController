@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ship_kinetic_ac
+  m_Controller: {fileID: 9100000, guid: da87ccb21dd528d4ab645d0dad6ac61b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 5786734224976126384, guid: 808ef4b6377f9564db34794a32c9624f, type: 3}
+    m_OverrideClip: {fileID: 5786734224976126384, guid: 808ef4b6377f9564db34794a32c9624f, type: 3}
+  - m_OriginalClip: {fileID: -1217648251584644529, guid: bb454d3e3529e5647ac537d722b4c8a8, type: 3}
+    m_OverrideClip: {fileID: -1217648251584644529, guid: bb454d3e3529e5647ac537d722b4c8a8, type: 3}
+  - m_OriginalClip: {fileID: -5345032862512905473, guid: 7ee2596d30d95aa40a4b73e4f9a6baae, type: 3}
+    m_OverrideClip: {fileID: -5345032862512905473, guid: 7ee2596d30d95aa40a4b73e4f9a6baae, type: 3}
+  - m_OriginalClip: {fileID: 5383597920385224822, guid: 404d7f55c5c994d40bccf4fda3c2e928, type: 3}
+    m_OverrideClip: {fileID: 5383597920385224822, guid: 404d7f55c5c994d40bccf4fda3c2e928, type: 3}
+  - m_OriginalClip: {fileID: 1906079613001885078, guid: a64928e2e4b737844b2c3771001fdd0e, type: 3}
+    m_OverrideClip: {fileID: 1906079613001885078, guid: a64928e2e4b737844b2c3771001fdd0e, type: 3}
+  - m_OriginalClip: {fileID: -2354716081260669947, guid: d28c76960afd54a4bb0fa71d97f4c84a, type: 3}
+    m_OverrideClip: {fileID: -2354716081260669947, guid: d28c76960afd54a4bb0fa71d97f4c84a, type: 3}
+  - m_OriginalClip: {fileID: 1581740747741977152, guid: e6260aea21004ef438ceed1796a75ebc, type: 3}
+    m_OverrideClip: {fileID: 1581740747741977152, guid: e6260aea21004ef438ceed1796a75ebc, type: 3}
+  - m_OriginalClip: {fileID: 6100126450865226260, guid: b2c2615c0e506604186b940a25c32c1a, type: 3}
+    m_OverrideClip: {fileID: 6100126450865226260, guid: b2c2615c0e506604186b940a25c32c1a, type: 3}
